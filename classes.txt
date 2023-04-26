@@ -1,0 +1,1 @@
+["with_mask", "mask_weared_incorrect", "without_mask"]
